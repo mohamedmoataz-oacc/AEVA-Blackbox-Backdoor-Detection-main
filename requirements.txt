@@ -1,0 +1,6 @@
+keras
+tensorflow-gpu
+onnx
+h5py
+hdf5plugin
+onnx2keras
